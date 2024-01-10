@@ -9,12 +9,12 @@ class ComposerStaticInit39b850dc21f02251733b643b77b0df19
     public static $prefixLengthsPsr4 = array (
         'J' => 
         array (
-            'Jslomian\\Htemplate\\' => 19,
+            'JSlomian\\htmpl\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Jslomian\\Htemplate\\' => 
+        'JSlomian\\htmpl\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

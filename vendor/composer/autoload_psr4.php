@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jslomian\\Htemplate\\' => array($baseDir . '/src'),
+    'JSlomian\\htmpl\\' => array($baseDir . '/src'),
 );

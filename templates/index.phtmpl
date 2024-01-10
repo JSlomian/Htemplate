@@ -1,0 +1,7 @@
+{{ $asd }}
+
+<if condition="false">
+qweqwe
+<else>
+sssddds
+</endif>

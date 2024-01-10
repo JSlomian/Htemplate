@@ -1,16 +1,21 @@
 {
-    "name": "jslomian/htemplate",
-    "description": "PHP templating engine with php instructions as html tags.",
+    "name": "jslomian/htmpl",
+    "description": "PHP templating engine with php instructions as html tags and attributes.",
     "autoload": {
         "psr-4": {
-            "Jslomian\\Htemplate\\": "src/"
+            "JSlomian\\htmpl\\": "src/"
         }
     },
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jan Slomian",
             "email": "slomian.jan@gmail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=8.3.1"
+    }
 }

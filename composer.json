@@ -1,0 +1,16 @@
+{
+    "name": "jslomian/htemplate",
+    "description": "PHP templating engine with php instructions as html tags.",
+    "autoload": {
+        "psr-4": {
+            "Jslomian\\Htemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jan Slomian",
+            "email": "slomian.jan@gmail.com"
+        }
+    ],
+    "require": {}
+}
